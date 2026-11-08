@@ -1,0 +1,14 @@
+# polymaze-website
+
+> Website of POLYMAZE, a robotics competition: design and build a robot to conquer a complex maze. Pages for the competition, about us, participation, FAQ, testimonies and team registration. Live at https://polymaze.vic-enp.com. Next.js, Three.js, Supabase.
+
+## Docs
+
+- [README.md](https://github.com/puIad/polymaze-website/blob/main/README.md): what the site is, stack and how to run it
+
+## Source
+
+- [src/app/register](https://github.com/puIad/polymaze-website/tree/main/src/app/register): team registration
+- [src/app/faq](https://github.com/puIad/polymaze-website/tree/main/src/app/faq): FAQ
+- [src/app/participate](https://github.com/puIad/polymaze-website/tree/main/src/app/participate): how to participate
+- [src/app/components](https://github.com/puIad/polymaze-website/tree/main/src/app/components): shared components
