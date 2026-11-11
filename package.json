@@ -23,7 +23,7 @@
     "framer-motion": "^12.10.4",
     "jquery": "^3.7.1",
     "lucide-react": "^0.503.0",
-    "next": "15.3.1",
+    "next": "^15.5.29",
     "page-flip": "github:Nodlik/StPageFlip",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -43,7 +43,7 @@
     "@types/react-dom": "^19",
     "@types/three": "^0.176.0",
     "eslint": "^9",
-    "eslint-config-next": "15.3.1",
+    "eslint-config-next": "^15.5.29",
     "tailwindcss": "^4",
     "tw-animate-css": "^1.3.0",
     "typescript": "5.8.3"
